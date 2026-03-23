@@ -28,11 +28,11 @@ title: "Sami Ennedoui's links"
 avatar: "https://github.com/sami-ennedoui/links/blob/main/images/sami_ennedoui.jpeg?raw=true"
 
 # Name section text
-name: "@sami-ennedoui"
+name: "Sami Ennedoui"
 
 # Tagline section text
 tagline: >-
-      Applied math and AI student who loves working on projects and discovering new things.
+  Élève Ingénieur ModIA | Applied mathematics and AI Engineering student.
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
 # text: The displayed text for the link
@@ -48,7 +48,13 @@ links:
       alt: "My Portfolio website"
       title: "My Portfolio website"
       target: "_blank"
-      
+  - link:
+      icon: "fa-solid fa-calendar"
+      text: "rythme d'alternance"
+      url: "https://github.com/sami-ennedoui/links/blob/main/images/rythme_alternance_ModIA.png?raw=true"
+      alt: "Calendrier d'alternance"
+      title: "📅 Calendrier d'Alternance (FR)"
+      target: "_blank"
 # List of social media links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
 # title: The url title

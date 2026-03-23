@@ -25,7 +25,7 @@ google_analytics_id:
 title: "ZhgChgLi's Links"
 
 # Avatar image path
-avatar: "https://sami-ennedoui.github.io/links/images/sami_ennedoui.jpeg"
+avatar: "./images/sami_ennedoui.jpeg"
 
 # Name section text
 name: "@zhgchgli"

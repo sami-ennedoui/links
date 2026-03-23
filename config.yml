@@ -55,6 +55,13 @@ links:
       alt: "Calendrier d'alternance"
       title: "📅 Calendrier d'Alternance (FR)"
       target: "_blank"
+  - link:
+      icon: "fa-solid fa-graduation-cap"
+      text: "Informations sur le parcours ModIA"
+      url: "https://www.insa-toulouse.fr/wp-content/uploads/2025/07/Syllabus_ModIA_2025_2026.pdf"
+      alt: "Informations sur le parcours ModIA"
+      title: "Informations sur le parcours ModIA"
+      target: "_blank"
 # List of social media links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
 # title: The url title
